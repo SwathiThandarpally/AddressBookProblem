@@ -9,7 +9,8 @@ namespace AddressBookProblem
         {
             Console.WriteLine("Displaying Welcome to Address Book Program");
 
-           
+            //UC_2
+            UC_2AddContact.ContactDetails();
 
         }
     }
