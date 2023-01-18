@@ -41,6 +41,14 @@ namespace AddressBookProblem
                 }
 
             }
+            MultipleContacts multipleContacts = new MultipleContacts();
+            multipleContacts.PersonDetails();
+            multipleContacts.ViewContact();
+            multipleContacts.EditContact();
+            multipleContacts.DeleteContact();
+            multipleContacts.Display();
+
         }
+        
     }
 }
